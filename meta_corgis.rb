@@ -131,4 +131,8 @@ class MetaCorgiSnacks
       tastiness > 30 ? "* #{result}" : result
     end
   end
+
+  define_snack("bone")
+  define_snack("kibble")
+  define_snack("treat")
 end
