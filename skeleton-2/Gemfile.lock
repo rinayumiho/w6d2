@@ -30,7 +30,7 @@ GEM
     zeitwerk (2.4.2)
 
 PLATFORMS
-  x86_64-darwin-20
+  x86_64-linux
 
 DEPENDENCIES
   activesupport
@@ -38,4 +38,4 @@ DEPENDENCIES
   sqlite3
 
 BUNDLED WITH
-   2.2.23
+   2.2.20
